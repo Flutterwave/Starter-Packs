@@ -3,7 +3,9 @@
 - Integration Option
 
 <details>
-<summary>Collections Available</summary>
+<summary>
+- Collections Available
+</summary>
 
     - Nigeria
     - Ghana
