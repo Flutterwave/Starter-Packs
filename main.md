@@ -1,10 +1,10 @@
 ## Table of Content
 - Get started
 - Integration Option
+
 <details>
-<summary>
-Collections Available
-</summary>
+<summary>Collections Available</summary>
+
     - Nigeria
     - Ghana
     - Kenya
@@ -12,5 +12,6 @@ Collections Available
     - Uganda
     - Francophone Africa
 </details>
+
 - Support Channels
 - Resource
