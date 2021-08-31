@@ -17,3 +17,5 @@
 
 - Support Channels
 - Resource
+
+> don't forget to design readme and consolidate for the different countries
