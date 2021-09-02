@@ -1,9 +1,10 @@
+
 ## Getting Started
 
 Yaay, you've created your account. here are a few additional things you need to get going:
 
 1. Complete your KYC, check [here](https://support.flutterwave.com/en/articles/3632710-what-are-the-requirements-for-using-flutterwave) to see a full list of documents required for KYC.\
-
+git
 2. Add your Bank Account
 
 ## Integration Options
