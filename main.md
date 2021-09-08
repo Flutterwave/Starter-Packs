@@ -1,22 +1,13 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 9c43638315d5e3968c4feb1b364caf07726adeb0
 ## Getting Started
 
 Yaay, you've created your account. here are a few additional things you need to get going:
 
 1. Complete your KYC, check [here](https://support.flutterwave.com/en/articles/3632710-what-are-the-requirements-for-using-flutterwave) to see a full list of documents required for KYC.\
-<<<<<<< HEAD
 
-=======
-git
->>>>>>> 9c43638315d5e3968c4feb1b364caf07726adeb0
 2. Add your Bank Account
 
 ## Integration Options
 
-<<<<<<< HEAD
 
 Add Flutterwave to your App or Project. Click any of the links below to explore the integration options:
 
@@ -28,29 +19,12 @@ Add Flutterwave to your App or Project. Click any of the links below to explore 
 - [HTML checkout](https://developer.flutterwave.com/docs/html)
 - Plugins and SDK Libraries.
 
-=======
-<details>
-<summary>
-Add Flutterwave to your App or Project. Click any of the links below to explore the integration options:
-</summary>
-    - [Flutterwave Inline JS](https://developer.flutterwave.com/docs/flutterwave-inline)
-    - [Flutterwave Standard](https://developer.flutterwave.com/docs/flutterwave-standard)
-    - [Direct API Integrations](https://developer.flutterwave.com/docs/api)
-        Here is a comprehensive [postman collection](https://documenter.getpostman.com/view/4419557/SzS1ToKx?version=latest#23deb132-ad8d-44e9-b381-57dc4e61203f) of sample requests and responses for our APIs
-    - [Payment Link](https://developer.flutterwave.com/docs/payment-links-1)
-    - [HTML checkout](https://developer.flutterwave.com/docs/html)
-    - Plugins and SDK Libraries.
-</details>
->>>>>>> 9c43638315d5e3968c4feb1b364caf07726adeb0
 
 
 ## Features
 
 Here are some of the features being integrated by Nigerian businesses today:
-<<<<<<< HEAD
-<p>&nbsp;</p>
-=======
->>>>>>> 9c43638315d5e3968c4feb1b364caf07726adeb0
+
 
 <details>
 <summary>
@@ -74,17 +48,13 @@ Need help during integration? you can reach out to our Engineers through the fol
 - Developers Forum:  [https://developer.flutterwave.com/discuss](https://developer.flutterwave.com/discuss)
 - Twitter: [@Flwsupport](https://twitter.com/FlwSupport)
 
-<<<<<<< HEAD
-<p>&nbsp;</p>
-=======
->>>>>>> 9c43638315d5e3968c4feb1b364caf07726adeb0
+
 Here are some self-help resources for you:
 
 - YouTube how to series: [https://www.youtube.com/playlist?list=PLdQn4TrYwb0MOmOZykrznNHNy0XI0pC8k](https://www.youtube.com/playlist?list=PLdQn4TrYwb0MOmOZykrznNHNy0XI0pC8k)
 - Support Articles: [https://support.flutterwave.com/en/collections/2107101-plugins-integrations](https://support.flutterwave.com/en/collections/2107101-plugins-integrations)
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 9c43638315d5e3968c4feb1b364caf07726adeb0
+
+
 
