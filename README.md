@@ -12,13 +12,13 @@ In order to ensure you have a seamless onboarding experience, We have decided to
 
 Please refer to the document relating to the Country you are in:
 
-- [Nigeria](countries/nigeria/base.md)
-- [Ghana](countries/ghana/base.md)
-- [Kenya](countries/kenya/base.md)
-- [Uganda](countries/uganda/base.md)
-- [Rwanda](countries/rwanda/base.md)
-- [Tanzania](countries/tanzania/base.md)
-- [S/Africa](countries/sa/base.md)
+- [Nigeria](Starter-Packs/blob/master/countries/nigeria/base.md)
+- [Ghana](Starter-Packs/blob/master/countries/ghana/base.md)
+- [Kenya](Starter-Packs/blob/master/countries/kenya/base.md)
+- [Uganda](Starter-Packs/blob/master/countries/uganda/base.md)
+- [Rwanda](Starter-Packs/blob/master/countries/rwanda/base.md)
+- [Tanzania](Starter-Packs/blob/master/countries/tanzania/base.md)
+- [S/Africa](Starter-Packs/blob/master/countries/sa/base.md)
 
 
 | :warning: This document is a living document and update would be made regularly! |
