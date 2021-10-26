@@ -12,15 +12,15 @@ In order to ensure you have a seamless onboarding experience, We have decided to
 
 Please refer to the document relating to the Country you are in:
 
-- [Nigeria](master/countries/nigeria/base.md)
-- [Ghana](master/countries/ghana/base.md)
-- [Kenya](master/countries/kenya/base.md)
-- [Uganda](master/countries/uganda/base.md)
-- [Rwanda](master/countries/rwanda/base.md)
-- [Tanzania](master/countries/tanzania/base.md)
-- [S/Africa](master/countries/sa/base.md)
+- [Nigeria](nigeria/base.md)
+- [Ghana](ghana/base.md)
+- [Kenya](kenya/base.md)
+- [Uganda](uganda/base.md)
+- [Rwanda](rwanda/base.md)
+- [Tanzania](tanzania/base.md)
+- [S/Africa](sa/base.md)
 
 
-| :warning: <p style="font-size: 11px;">This document is a living document and update would be made regularly!</p> |
+| :warning: <p style="font-size: 8px;">This document is a living document and update would be made regularly!</p> |
 | --- |
 
